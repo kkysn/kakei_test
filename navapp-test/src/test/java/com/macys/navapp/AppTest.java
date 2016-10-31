@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-        fail("TEST FAIL TEST !!!");
+        /* fail("TEST FAIL TEST !!!"); */
         assertTrue( true );
     }
 }
